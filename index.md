@@ -6,4 +6,5 @@
 <br><br>
 The point of this page is to practice Markdown and serve as a simple recipe box for our family's meals. 
 
-[Baked Oatmeal with Blueberries Recipe](./bakedoatmealwithblueberries.md)
+## Meal Plans
+[Week of 1/17/2022](./mealplan20220117.md)
