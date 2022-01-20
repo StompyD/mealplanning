@@ -1,7 +1,9 @@
-# Welcome to it!
+# Welcome to a simple recipe box!
 
-We will use this as a testing site. 
+<img src="./lizard_chef.jpg" alt="Our Hero" width="200"/>
+
+(Our chef and guide) 
+<br><br>
+The point of this page is to practice Markdown and serve as a simple recipe box for our family's meals. 
 
 [Baked Oatmeal with Blueberries Recipe](./bakedoatmealwithblueberries.md)
-
-What do you think of this?
