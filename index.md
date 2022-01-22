@@ -7,4 +7,5 @@
 The point of this page is to practice Markdown and serve as a simple recipe box for our family's meals. 
 
 ## Meal Plans
+[Week of 1/24/2022](./mealplan20220124.md)
 [Week of 1/17/2022](./mealplan20220117.md)
