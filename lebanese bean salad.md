@@ -1,4 +1,4 @@
-# Easy Chicken Pad Thai
+# Lebanese Bean Salad
 
 From Cookie and Kate
 
