@@ -8,6 +8,8 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 
 ## Meal Plans
 
+[Week of 2/7/2022](./mealplan20220207.md)
+
 [Week of 1/31/2022](./mealplan20220131.md)
 
 [Week of 1/24/2022](./mealplan20220124.md)
