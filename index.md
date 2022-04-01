@@ -27,3 +27,9 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 [Week of 1/24/2022](./mealplan20220124.md)
 
 [Week of 1/17/2022](./mealplan20220117.md)
+
+## Recipe Pool Notes
+
+[Taco Recipe Ideas](./Taco Recipe Ideas.md)
+
+[Pasta Recipe Ideas](./PastaRecipeIdeas.md)
