@@ -9,3 +9,4 @@
 - Fish tacos
 - [Chicken Tinga tacos](./chickentinga.md)
 - [Cauliflower and Lentil Tacos](./cauliflower and lentil tacos.md)
+- [Sofritas for Tacos or Burritos](./sofritas.md)
