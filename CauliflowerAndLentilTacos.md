@@ -12,6 +12,7 @@ Cauliflower
 - Salt and freshly ground black pepper
 
 Seasoned lentils
+
 - 1 tablespoon olive oil
 - 1 cup chopped yellow or white onion
 - 2 large garlic cloves, pressed or minced
@@ -22,12 +23,14 @@ Seasoned lentils
 - 2 cups vegetable broth or water
 
 Chipotle sauce
+
 - 1/3 cup mayonnaise
 - 2 tablespoons lime juice
 - 2 to 3 tablespoons adobo sauce (from a can of chipotle peppers) or chipotle hot sauce to taste
 - Salt and freshly ground black pepper, to taste
 
 Everything else
+
 - 8 small, round corn tortillas
 - 1/2 cup packed fresh cilantro leaves*
 
