@@ -16,7 +16,7 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 
 ## Recipe Pool Notes
 
-[Previous Meal Plans]
+[Previous Meal Plans](./PreviousMealPlansIndex.md)
 
 [Taco Recipe Ideas](./Taco Recipe Ideas.md)
 
