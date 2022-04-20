@@ -5,3 +5,4 @@
 - [Baked Ziti - Smitten Kitchen](./BakedZiti.md)
 - [Baked Ziti with Bechamel](./BakedZitiWithBechamel.md)
 - [Carbonara](./SpaghettiWithCarbonaraSauce.md)
+- [Slow Cooker Spagetti Sauce](./SlowCookerSpaghettiSauce.md)
