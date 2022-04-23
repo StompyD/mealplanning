@@ -8,6 +8,8 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 
 ## Meal Plans
 
+[Week of 4/24/2022](./mealplan20220424.md)
+
 [Week of 4/17/2022](./mealplan20220417.md)
 
 [Week of 4/10/2022](./mealplan20220410.md)
@@ -18,7 +20,7 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 
 [Previous Meal Plans](./PreviousMealPlansIndex.md)
 
-[Taco Recipe Ideas](./Taco Recipe Ideas.md)
+[Taco Recipe Ideas](./TacoRecipeIdeas.md)
 
 [Pasta Recipe Ideas](./PastaRecipeIdeas.md)
 
