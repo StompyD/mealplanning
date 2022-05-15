@@ -27,3 +27,5 @@
 [Week of 1/24/2022](./mealplan20220124.md)
 
 [Week of 1/17/2022](./mealplan20220117.md)
+
+[Week of 8/29/2021](./mealplan20210829.md)
