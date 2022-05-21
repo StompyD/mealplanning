@@ -18,7 +18,7 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 
 ## Cocktail Recipes
 
-[Cocktail Index](./CockTailIndex)
+[Cocktail Index](./CockTailIndex.md)
 
 
 ## Recipe Pool Notes
