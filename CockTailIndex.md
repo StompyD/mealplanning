@@ -6,5 +6,7 @@
 
 [Rum Cocktails](./RumCocktails.md)
 
+[Tequila Cocktails](./TequilaCocktails.md)
+
 [Vodka Cocktails](./VodkaCocktails.md)
 
