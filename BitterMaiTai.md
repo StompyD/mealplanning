@@ -7,7 +7,6 @@
 - 1.5 ounces [campari](./CampariCocktails.md)
 - 1/2 ounces triple sec
 
-Drop the squished lime shell into the glass of crushed ice. Pour ingredients over ice and stir to combine. 
 
 ## Directions
 Drop the squished lime shell into the glass of crushed ice. Pour ingredients over ice and stir to combine. 
