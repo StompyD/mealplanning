@@ -16,9 +16,9 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 
 [Week of 5/1/2022](./mealplan20220501.md)
 
-## Cocktail Recipes
+## Cocktails
 
-[Cocktail Index](./CockTailIndex.md)
+[Cocktails](./CockTailIndex.md)
 
 
 ## Recipe Pool Notes

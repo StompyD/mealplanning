@@ -1,4 +1,4 @@
-# Cocktail Index
+# Cocktails
 
 [Brand and Spirit Suggestions from the 12 Bottle Bar](./12BottleBarSpiritsAndBrands.md)
 
