@@ -1,12 +1,15 @@
 # Welcome to a simple recipe box!
 
 <img src="./lizard_chef.jpg" alt="Our Hero" width="200"/>
+
 (Our chef and guide) 
 
 <br><br>
 The point of this page is to practice Markdown and serve as a simple recipe box for our family's meals. 
 
 ## Meal Plans
+
+[Week of 6/5/2022](./mealplan20220605.md)
 
 [Week of 5/29/2022](./mealplan20220529.md)
 
