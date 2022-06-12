@@ -13,3 +13,5 @@
 [Vodka Cocktails](./VodkaCocktails.md)
 
 [Whiskey Cocktails](./WhiskeyCocktails.md)
+
+[Other Cocktails](./OtherCocktails.md)

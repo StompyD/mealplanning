@@ -9,6 +9,8 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 
 ## Meal Plans
 
+[Week of 6/12/2022](./mealplan20220612.md)
+
 [Week of 6/5/2022](./mealplan20220605.md)
 
 [Week of 5/29/2022](./mealplan20220529.md)
@@ -25,6 +27,8 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 
 [Cocktails](./CockTailIndex.md)
 
+## Baking
+[BakingIndex](./BakingIndex.md)
 
 ## Recipe Pool Notes
 
