@@ -9,19 +9,11 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 
 ## Meal Plans
 
+[Week of 6/19/2022](./mealplan20220619.md)
+
 [Week of 6/12/2022](./mealplan20220612.md)
 
 [Week of 6/5/2022](./mealplan20220605.md)
-
-[Week of 5/29/2022](./mealplan20220529.md)
-
-[Week of 5/22/2022](./mealplan20220522.md)
-
-[Week of 5/15/2022](./mealplan20220515.md)
-
-[Week of 5/8/2022](./mealplan20220508.md)
-
-[Week of 5/1/2022](./mealplan20220501.md)
 
 ## Cocktails
 
