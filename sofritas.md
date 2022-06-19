@@ -2,7 +2,7 @@
 
 Author: Kelli Foster
 
-https://www.thekitchn.com/chipotle-sofritas-22986896
+[Recipe Link](https://www.thekitchn.com/chipotle-sofritas-22986896)
 
 ## Ingredients
 
