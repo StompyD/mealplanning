@@ -4,9 +4,6 @@
 
 (Our chef and guide) 
 
-<br><br>
-The point of this page is to practice Markdown and serve as a simple recipe box for our family's meals. 
-
 ## Meal Plans
 
 [Week of 6/19/2022](./mealplan20220619.md)
@@ -20,7 +17,7 @@ The point of this page is to practice Markdown and serve as a simple recipe box 
 [Cocktails](./CockTailIndex.md)
 
 ## Baking
-[BakingIndex](./BakingIndex.md)
+[Baking Recipes](./BakingIndex.md)
 
 ## Recipe Pool Notes
 
