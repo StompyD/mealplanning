@@ -12,12 +12,6 @@
 
 [Week of 7/11/2022](./mealplan20220711.md)
 
-[Week of 6/19/2022](./mealplan20220619.md)
-
-[Week of 6/12/2022](./mealplan20220612.md)
-
-[Week of 6/5/2022](./mealplan20220605.md)
-
 ## Cocktails
 
 [Cocktails](./CockTailIndex.md)
