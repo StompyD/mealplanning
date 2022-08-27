@@ -1,5 +1,7 @@
 # Favorite Chickpea Salad
 
+Note: Easily Doubled
+
 By Cookie and Kate
 
 [Recipe Link](https://cookieandkate.com/best-chickpea-salad-recipe/)

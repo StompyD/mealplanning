@@ -8,6 +8,6 @@
 - Ground beef/ground turkey
 - Fish tacos
 - [Chicken Tinga tacos](./chickentinga.md)
-- [Cauliflower and Lentil Tacos](./cauliflower and lentil tacos.md)
+- [Cauliflower and Lentil Tacos](./CauliflowerAndLentilTacos.md)
 - [Sofritas for Tacos or Burritos](./sofritas.md)
 - [Taco Potion #19 (Taco Seasoning)](./TacoSeasoning.md)
