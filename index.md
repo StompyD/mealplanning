@@ -6,6 +6,8 @@
 
 ## Meal Plans
 
+[Week of 9/5/2022](./mealplan20220905.md)
+
 [Week of 8/29/2022](./mealplan20220829.md)
 
 [Week of 8/22/2022](./mealplan20220822.md)
@@ -20,6 +22,7 @@
 [Cocktails](./CockTailIndex.md)
 
 ## Baking
+
 [Baking Recipes](./BakingIndex.md)
 
 ## Recipe Pool Notes
