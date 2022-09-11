@@ -1,10 +1,12 @@
 # Pasta Recipe Ideas
 
-- [Fettucicine Alfredo](./Fettuccine Alfredo.md)
-- [Penne Alla Vodka](./penneallavodka.md)
 - [Baked Ziti - Smitten Kitchen](./BakedZiti.md)
 - [Baked Ziti with Bechamel](./BakedZitiWithBechamel.md)
+- [Basic Pesto](./BasicPesto.md)
+- [Cacio e Pepe](./CacioEPepe.md)
 - [Carbonara](./SpaghettiWithCarbonaraSauce.md)
-- [Slow Cooker Spagetti Sauce](./SlowCookerSpaghettiSauce.md)
+- [Fettucicine Alfredo](./Fettuccine Alfredo.md)
 - [Pasta E Ceci](./PastaECeci.md)
+- [Penne Alla Vodka](./penneallavodka.md)
+- [Slow Cooker Spagetti Sauce](./SlowCookerSpaghettiSauce.md)
 - [Tuscan White Bean Pasta](./TuscanWhiteBeanPasta.md)
