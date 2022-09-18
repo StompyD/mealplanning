@@ -4,6 +4,10 @@
 
 [Cranberry Gin Fizz](./CranberryGinFizz.md)
 
+[French 75](./French75.md)
+
+[Gimlet](./GinGimlet.md)
+
 [Martini](./Martini.md) 
 
 [Mule](./MuleCocktail.md)

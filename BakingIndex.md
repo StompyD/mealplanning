@@ -5,3 +5,5 @@
 - [NYT No Knead Bread](./NYTNoKneadBread.md)
 
 - [German Pancake (Dutch Baby)](./DutchBabyGermanPancake.md)
+
+- [2 Ingredient Banana Pancakes](./SimpleBananaPancakes.md)
