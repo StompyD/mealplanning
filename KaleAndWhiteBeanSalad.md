@@ -7,7 +7,9 @@ Author: Budget Bytes
 Note: Easily doubled (make a full pot of brown rice and buy 3 bags of prechopped kale)
 
 # Ingredients
+
 - 1 cup long grain brown rice 
+
 ## VINAIGRETTE
 - 1/4 cup olive oil 
 - 3 Tbsp red wine vinegar 
