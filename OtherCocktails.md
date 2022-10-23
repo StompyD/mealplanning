@@ -8,4 +8,6 @@
 
 [Michelada - Mexican Beer](./Michelada.md)
 
+[Midnight Stinger - Fernet](./MidnightStinger.md)
+
 [Alton Brown's Aged Eggnog](./AgedEggnog.md)
