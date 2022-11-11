@@ -25,3 +25,5 @@
 [Taco Recipe Ideas](./TacoRecipeIdeas.md)
 
 [Pasta Recipe Ideas](./PastaRecipeIdeas.md)
+
+[Thanksgiving Recipes](./ThanksgivingIndex.md)
