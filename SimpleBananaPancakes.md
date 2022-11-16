@@ -12,7 +12,7 @@ Author: EMMA CHRISTENSEN, kitchn
 - Dash of salt
 
 ## Directions
-1.Mash the banana. Peel the banana and break it up into several big chunks in a medium bowl. Use a dinner fork to thoroughly mash the banana. Continue mashing until the banana has a pudding-like consistency and no large lumps remain; a few small lumps are okay. You should have 1/3 to 1/2 cup of mashed bananas.
+1. Mash the banana. Peel the banana and break it up into several big chunks in a medium bowl. Use a dinner fork to thoroughly mash the banana. Continue mashing until the banana has a pudding-like consistency and no large lumps remain; a few small lumps are okay. You should have 1/3 to 1/2 cup of mashed bananas.
 2. Add flavorings if desired. These pancakes are pretty great on their own, but a few extras never hurt. Add 1/8 teaspoon of baking powder for fluffier, lighter pancakes, and whisk in salt, vanilla, cocoa powder, or honey to flavor the pancakes. Save any chunky, heavy ingredients — like nuts or chocolate chips — for when the pancakes are on the griddle.
 3. Stir in the eggs. Pour the eggs over the banana and stir until completely combined. The batter will be very loose and liquidy, more like whisked eggs than regular pancake batter.
 4. Heat a pan over medium heat. Heat a cast iron pan, nonstick frying pan, or griddle over medium heat. Melt a little butter or warm a little vegetable oil in the pan if desired.

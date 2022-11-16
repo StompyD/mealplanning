@@ -3,7 +3,7 @@
 ## Ingredients
 - 1 ounce plymouth [gin](./GinCocktails.md)
 - 1 ounce sweet vermouth
- -1 ounce [Campari](./CampariCocktails.md)
+- 1 ounce [Campari](./CampariCocktails.md)
 
 ## Directions
 1. Combine all ingredients with ice and stir until chilled. 

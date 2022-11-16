@@ -1,4 +1,4 @@
-# Cuba Libre
+# Palmetto
 
 ## Ingredients
 - 1 1/2 oz [rum](./RumCocktails.md)
