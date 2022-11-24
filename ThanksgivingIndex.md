@@ -2,6 +2,8 @@
 
 ## Cranberry Sauces
 
+[Cranberry Jalapeno Salsa](./CranberryJalapenoSalsa.md)
+
 [Cranberry Relish](./CranberryRelish.md)
 
 [Smokey Spicy Cranberry Sauce](./JalapenoLimeCranberrySauce.md)
@@ -9,3 +11,7 @@
 [Spiced Red Wine Cranberry Sauce](./SpicedRedWineCranberrySauce.md)
 
 [The World's Easiest Thanksgiving Cranberry Sauce Recipe](./CranberrySauce.md)
+
+## Thanksgiving Sides
+
+[Candied Sweet Potatoes](./CandiedSweetPotatoes.md)
