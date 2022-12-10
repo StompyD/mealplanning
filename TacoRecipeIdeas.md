@@ -11,3 +11,5 @@
 - [Cauliflower and Lentil Tacos](./CauliflowerAndLentilTacos.md)
 - [Sofritas for Tacos or Burritos](./sofritas.md)
 - [Taco Potion #19 (Taco Seasoning)](./TacoSeasoning.md)
+
+- [Salsa Verde](./salsaVerde.md)

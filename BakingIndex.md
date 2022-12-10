@@ -1,13 +1,15 @@
 # Baking Index
 
-[Baked Oatmeal with Blueberries](./bakedoatmealwithblueberries.md)
+- [Baked Oatmeal with Blueberries](./bakedoatmealwithblueberries.md)
 
-[Banana Baked Oatmeal](./bananabakedoatmeal.md)
+- [Baking Powder Biscuits](./bakingPowderBiscuits.md)
 
-[Easy Homemade Cornbread](./CornBread.md)
+- [Banana Baked Oatmeal](./bananabakedoatmeal.md)
 
-[NYT No Knead Bread](./NYTNoKneadBread.md)
+- [Easy Homemade Cornbread](./CornBread.md)
 
-[German Pancake (Dutch Baby)](./DutchBabyGermanPancake.md)
+- [NYT No Knead Bread](./NYTNoKneadBread.md)
 
-[2 Ingredient Banana Pancakes](./SimpleBananaPancakes.md)
+- [German Pancake (Dutch Baby)](./DutchBabyGermanPancake.md)
+
+- [2 Ingredient Banana Pancakes](./SimpleBananaPancakes.md)
