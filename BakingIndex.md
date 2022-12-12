@@ -8,6 +8,8 @@
 
 - [Easy Homemade Cornbread](./CornBread.md)
 
+- [Lefse](./lefse.md)
+
 - [NYT No Knead Bread](./NYTNoKneadBread.md)
 
 - [German Pancake (Dutch Baby)](./DutchBabyGermanPancake.md)
