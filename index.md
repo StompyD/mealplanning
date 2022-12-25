@@ -6,21 +6,13 @@
 
 ## Meal Plans
 
+[Week of 12/26/2022](./mealplan20221226.md)
+
 [Week of 12/19/2022](./mealplan20221219.md)
 
 [Week of 12/12/2022](./mealplan20221212.md)
 
 [Week of 12/05/2022](./mealplan20221205.md)
-
-[Week of 11/28/2022](./mealplan20221128.md)
-
-[Week of 11/21/2022](./mealplan20221121.md)
-
-[Week of 11/14/2022](./mealplan20221114.md)
-
-[Week of 11/07/2022](./mealplan20221107.md)
-
-[Week of 10/31/2022](./mealplan20221031.md)
 
 ## Cocktails
 
