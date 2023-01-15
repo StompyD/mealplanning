@@ -15,3 +15,5 @@
 - [German Pancake (Dutch Baby)](./DutchBabyGermanPancake.md)
 
 - [2 Ingredient Banana Pancakes](./SimpleBananaPancakes.md)
+
+- [Wreath Cookies](./wreathCookies.md)
