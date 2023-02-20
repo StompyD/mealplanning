@@ -8,6 +8,10 @@
 
 - [Easy Homemade Cornbread](./CornBread.md)
 
+- [High Altitude Chocolate Cake](./highAltitudeChocolateCake.md)
+
+- [High Altitude Chocolate Chip Cookies](./highAltitudeChocolateChipCookies.md)
+
 - [Lefse](./lefse.md)
 
 - [NYT No Knead Bread](./NYTNoKneadBread.md)
