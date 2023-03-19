@@ -10,6 +10,8 @@
 - [Chicken Tinga tacos](./chickentinga.md)
 - [Cauliflower and Lentil Tacos](./CauliflowerAndLentilTacos.md)
 - [Sofritas for Tacos or Burritos](./sofritas.md)
-- [Taco Potion #19 (Taco Seasoning)](./TacoSeasoning.md)
 
+- [Taco Potion #19 (Taco Seasoning)](./TacoSeasoning.md)
 - [Salsa Verde](./salsaVerde.md)
+- [Creamy Jalapeno Salsa](./creamyJalapenoSalsa.md)
+- [Las Delicias Salsa Copycat](./lasDeliciasSalsaCopycat.md)
