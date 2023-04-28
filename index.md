@@ -6,6 +6,10 @@
 
 ## Meal Plans
 
+[Week of 5/1/2023](./mealplan20230501.md)
+
+[Week of 4/24/2023](./mealplan20230424.md)
+
 [Week of 4/17/2023](./mealplan20230417.md)
 
 [Week of 4/10/2023](./mealplan20230410.md)
