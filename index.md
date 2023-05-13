@@ -6,29 +6,11 @@
 
 ## Meal Plans
 
+[Week of 5/15/2023](./mealplan20230515.md)
+
 [Week of 5/8/2023](./mealplan20230508.md)
 
 [Week of 5/1/2023](./mealplan20230501.md)
-
-[Week of 4/24/2023](./mealplan20230424.md)
-
-[Week of 4/17/2023](./mealplan20230417.md)
-
-[Week of 4/10/2023](./mealplan20230410.md)
-
-[Week of 4/3/2023](./mealplan20230403.md)
-
-[Week of 3/20/2023](./mealplan20230320.md)
-
-[Week of 3/13/2023](./mealplan20230313.md)
-
-[Week of 3/6/2023](./mealplan20230306.md)
-
-[Week of 2/27/2023](./mealplan20230227.md)
-
-[Week of 2/20/2023](./mealplan20230220.md)
-
-[Week of 2/6/2023](./mealplan20230206.md)
 
 ## Cocktails
 
