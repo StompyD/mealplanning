@@ -3,6 +3,7 @@
 Note: Recipe is best doubled
 
 Author: J. Kenji López-Alt
+
 [Recipe Link](https://www.seriouseats.com/channa-masala-recipe?print)
 
 ## Ingredients 
@@ -24,7 +25,6 @@ Author: J. Kenji López-Alt
 - 2 (14-ounce) cans chickpeas, drained and rinsed
 - 1 cup cilantro leaves, roughly chopped (1 ounce; 25g)
 
-<br>
 
 ## Directions
 
