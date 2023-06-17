@@ -21,3 +21,6 @@
 - [2 Ingredient Banana Pancakes](./SimpleBananaPancakes.md)
 
 - [Wreath Cookies](./wreathCookies.md)
+
+
+[Index](./index.md)
