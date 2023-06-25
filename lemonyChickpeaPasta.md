@@ -1,4 +1,4 @@
-# Pasta e Fagioli 
+# Lemony Chickpea Pasta
 
 Author: Kroger
 
