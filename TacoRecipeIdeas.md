@@ -12,6 +12,10 @@
 - [Sofritas for Tacos or Burritos](./sofritas.md)
 
 - [Taco Potion #19 (Taco Seasoning)](./TacoSeasoning.md)
+
+## Salsa Recipes
+- [Acapulco Style Green Salsa](./acapulcoGreenSalsa.md)
+- [Acapulco Style Red Salsa](./acapulcoRedSalsa.md)
 - [Salsa Verde](./salsaVerde.md)
 - [Creamy Jalapeno Salsa](./creamyJalapenoSalsa.md)
 - [Las Delicias Salsa Copycat](./lasDeliciasSalsaCopycat.md)
