@@ -1,4 +1,4 @@
-# Acapulco Style - Red Salsa
+# Acapulco Style Red Salsa
 
 [Recipe Link](https://www.reddit.com/r/SalsaSnobs/comments/egywxn/comment/fcb2bav/)
 

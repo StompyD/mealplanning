@@ -1,4 +1,4 @@
-# Acapulco Style - Green Salsa
+# Acapulco Style Green Salsa
 
 [Recipe Link](https://www.reddit.com/r/SalsaSnobs/comments/egywxn/comment/fcb2bav/)
 

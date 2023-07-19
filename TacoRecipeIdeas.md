@@ -13,9 +13,14 @@
 
 - [Taco Potion #19 (Taco Seasoning)](./TacoSeasoning.md)
 
+- [Easy Bean Dip](./easyBeanDip.md)
+
 ## Salsa Recipes
 - [Acapulco Style Green Salsa](./acapulcoGreenSalsa.md)
 - [Acapulco Style Red Salsa](./acapulcoRedSalsa.md)
-- [Salsa Verde](./salsaVerde.md)
 - [Creamy Jalapeno Salsa](./creamyJalapenoSalsa.md)
+- [Chile De Arbol Sauce](c./chileDeArbolSauce.md)
+- [Extra-Hot Yucatán-Style Roasted-Habanero Salsa](./extraHotYucatanStyleRoastedHabaneroSalsa.md)
 - [Las Delicias Salsa Copycat](./lasDeliciasSalsaCopycat.md)
+- [Salsa Verde](./salsaVerde.md)
+- [Yucatán-Style Hot Dried-Chili Salsa](./yucatanStyleHotDriedChiliSalsa.md)
