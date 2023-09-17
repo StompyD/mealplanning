@@ -25,3 +25,4 @@
 - [Las Delicias Salsa Copycat](./lasDeliciasSalsaCopycat.md)
 - [Salsa Verde](./salsaVerde.md)
 - [Yucatán-Style Hot Dried-Chili Salsa](./yucatanStyleHotDriedChiliSalsa.md)
+- [Xnipec](./xnipec.md)
