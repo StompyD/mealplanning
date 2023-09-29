@@ -6,15 +6,10 @@
 
 ## Meal Plans
 
+[Week of 10/2/2023](./mealplan20231002.md)
+
 [Week of 9/25/2023](./mealplan20230925.md)
 
-[Week of 9/18/2023](./mealplan20230918.md)
-
-[Week of 9/11/2023](./mealplan20230911.md)
-
-[Week of 8/28/2023](./mealplan20230828.md)
-
-[Week of 8/14/2023](./mealplan20230814.md)
 
 ## Cocktails
 
