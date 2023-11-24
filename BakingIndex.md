@@ -1,5 +1,7 @@
 # Baking Index
 
+- [All Butter Pie Dough](./allButterPieDough.md)
+
 - [Baked Oatmeal with Blueberries](./bakedoatmealwithblueberries.md)
 
 - [Baking Powder Biscuits](./bakingPowderBiscuits.md)
@@ -11,6 +13,8 @@
 - [High Altitude Chocolate Cake](./highAltitudeChocolateCake.md)
 
 - [High Altitude Chocolate Chip Cookies](./highAltitudeChocolateChipCookies.md)
+
+- [High Altitude Pumpkin Pie](./highAltitudePumpkinPie.md)
 
 - [Lefse](./lefse.md)
 

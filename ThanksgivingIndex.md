@@ -14,4 +14,10 @@
 
 ## Thanksgiving Sides
 
+[Classic Green Bean Casserole](./classicGreenBeanCasserole.md)
+
 [Candied Sweet Potatoes](./CandiedSweetPotatoes.md)
+
+## Desserts
+
+[High Altitude Pumpkin Pie](./highAltitudePumpkinPie.md)

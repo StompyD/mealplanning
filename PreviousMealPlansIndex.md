@@ -1,5 +1,15 @@
 # Previous Meal Plans
 
+[Week of 10/23/2023](./mealplan20231023.md)
+
+[Week of 10/16/2023](./mealplan20231016.md)
+
+[Week of 10/9/2023](./mealplan20231009.md)
+
+[Week of 10/2/2023](./mealplan20231002.md)
+
+[Week of 9/25/2023](./mealplan20230925.md)
+
 [Week of 9/18/2023](./mealplan20230918.md)
 
 [Week of 9/11/2023](./mealplan20230911.md)
