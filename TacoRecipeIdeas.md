@@ -23,6 +23,7 @@
 - [Chile De Arbol Sauce - Extra Hot](./chileDeArbolSauceExtraHot.md)
 - [Extra-Hot Yucatán-Style Roasted-Habanero Salsa](./extraHotYucatanStyleRoastedHabaneroSalsa.md)
 - [Las Delicias Salsa Copycat](./lasDeliciasSalsaCopycat.md)
+- [Pico de Gallo](./classicPicoDeGallo.md)
 - [Salsa Verde](./salsaVerde.md)
 - [Yucatán-Style Hot Dried-Chili Salsa](./yucatanStyleHotDriedChiliSalsa.md)
 - [Xnipec](./xnipec.md)
