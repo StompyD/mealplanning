@@ -2,22 +2,22 @@
 
 ## Cranberry Sauces
 
-[Cranberry Jalapeno Salsa](./CranberryJalapenoSalsa.md)
+- [Cranberry Jalapeno Salsa](./CranberryJalapenoSalsa.md)
 
-[Cranberry Relish](./CranberryRelish.md)
+- [Cranberry Relish](./CranberryRelish.md)
 
-[Smokey Spicy Cranberry Sauce](./JalapenoLimeCranberrySauce.md)
+- [Smokey Spicy Cranberry Sauce](./JalapenoLimeCranberrySauce.md)
 
-[Spiced Red Wine Cranberry Sauce](./SpicedRedWineCranberrySauce.md)
+- [Spiced Red Wine Cranberry Sauce](./SpicedRedWineCranberrySauce.md)
 
-[The World's Easiest Thanksgiving Cranberry Sauce Recipe](./CranberrySauce.md)
+- [The World's Easiest Thanksgiving Cranberry Sauce Recipe](./CranberrySauce.md)
 
 ## Thanksgiving Sides
 
-[Classic Green Bean Casserole](./classicGreenBeanCasserole.md)
+- [Classic Green Bean Casserole](./classicGreenBeanCasserole.md)
 
-[Candied Sweet Potatoes](./CandiedSweetPotatoes.md)
+- [Candied Sweet Potatoes](./CandiedSweetPotatoes.md)
 
 ## Desserts
 
-[High Altitude Pumpkin Pie](./highAltitudePumpkinPie.md)
+- [High Altitude Pumpkin Pie](./highAltitudePumpkinPie.md)

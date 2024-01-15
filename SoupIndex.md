@@ -1,10 +1,14 @@
 # Soup Index
 
+- [15 Bean Soup](./15BeanSoup.md)
+
 - [30 Minute Posole](./30MinutePosole.md)
 
 - [30-Minute Black Bean Soup Recipe](./blackBeanSoup.md)
 
 - [Best Lentil Soup](./Best Lentil Soup.md)
+
+- [Butternut Squash Soup](./butternutSquashSoup.md)
 
 - [Cabbage, Sausage (Kielbasa), and Potato Soup](./cabbageSausagePotatoSoup.md)
 
@@ -24,8 +28,12 @@
 
 - [Pinto Posole](./pintoposole.md)
 
+- [Sweet Potato Coconut Curry Soup](./sweetPotatoAndCoconutCurrySoup.md)
+
 - [Tortellini Soup](./tortelliniSoup.md)
 
 - [Vegetarian Borscht](./vegetarianBorscht.md)
+
+- [White Bean and Lemon Soup](./whiteBeanAndLemonSoup.md)
 
 - [White Chicken Chili](./whiteChickenChili.md)
