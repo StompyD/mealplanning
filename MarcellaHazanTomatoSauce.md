@@ -2,8 +2,8 @@
 
 Kim Severson
 
-[Recipe Link](https://cooking.nytimes.com/recipes/1015178-marcella-hazans-tomato-sauce
-)
+[Recipe Link](https://cooking.nytimes.com/recipes/1015178-marcella-hazans-tomato-sauce)
+
 ## Ingredients
 
 - 2 cups tomatoes, in addition to their juices (for example, a - 28-ounce can of San Marzano whole peeled tomatoes)
