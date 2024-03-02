@@ -6,25 +6,11 @@
 
 ## Meal Plans
 
+[Week of 03/04/2024](./mealplan20240304.md)
+
 [Week of 02/26/2024](./mealplan20240226.md)
 
 [Week of 02/19/2024](./mealplan20240219.md)
-
-[Week of 02/12/2024](./mealplan20240212.md)
-
-[Week of 02/05/2024](./mealplan20240205.md)
-
-[Week of 01/29/2024](./mealplan20240129.md)
-
-[Week of 01/22/2024](./mealplan20240122.md)
-
-[Week of 01/15/2024](./mealplan20240115.md)
-
-[Week of 01/08/2024](./mealplan20240108.md)
-
-[Week of 01/01/2024](./mealplan20240101.md)
-
-[Week of 12/25/2023](./mealplan20231225.md)
 
 
 ## Cocktails
@@ -39,10 +25,10 @@
 
 [Previous Meal Plans](./PreviousMealPlansIndex.md)
 
-[Taco Recipe Ideas](./TacoRecipeIdeas.md)
+[Taco Recipes](./TacoRecipeIdeas.md)
 
-[Pasta Recipe Ideas](./PastaRecipeIdeas.md)
+[Pasta Recipes](./PastaRecipeIdeas.md)
+
+[Soup Recipes](./SoupIndex.md)
 
 [Thanksgiving Recipes](./ThanksgivingIndex.md)
-
-[Soups](./SoupIndex.md)
