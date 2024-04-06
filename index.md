@@ -6,6 +6,8 @@
 
 ## Meal Plans
 
+[Week of 04/08/2024](./mealplan20240408.md)
+
 [Week of 04/01/2024](./mealplan20240401.md)
 
 ## Cocktails
