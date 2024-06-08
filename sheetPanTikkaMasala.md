@@ -28,7 +28,7 @@ From Smitten Kitchen
 - 1/2 teaspoon cumin seeds
 
 ### To finish, if desired
-- A few thin slices of red onion - [Pickled Red Onions](./PickedRedOnions.md)
+- A few thin slices of red onion - [Pickled Red Onions](./PickledRedOnions.md)
 - Lemon wedges
 - Salt
 - Dollops of yogurt
