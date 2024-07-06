@@ -6,35 +6,43 @@
 
 ## Meal Plans
 
-[Week of 07/08/2024](./mealplan20240708.md)
+- [Week of 07/08/2024](./mealplan20240708.md)
 
-[Week of 07/01/2024](./mealplan20240701.md)
+- [Week of 07/01/2024](./mealplan20240701.md)
 
-[Week of 06/24/2024](./mealplan20240624.md)
+- [Week of 06/24/2024](./mealplan20240624.md)
 
-[Week of 06/17/2024](./mealplan20240617.md)
+- [Week of 06/17/2024](./mealplan20240617.md)
 
-[Week of 06/10/2024](./mealplan20240610.md)
+- [Week of 06/10/2024](./mealplan20240610.md)
 
-[Week of 06/03/2024](./mealplan20240603.md)
+- [Week of 06/03/2024](./mealplan20240603.md)
 
 
 ## Cocktails
 
-[Cocktails](./CockTailIndex.md)
+- [Cocktails](./CockTailIndex.md)
 
 ## Baking
 
-[Baking Recipes](./BakingIndex.md)
+- [Baking Recipes](./BakingIndex.md)
 
 ## Recipe Pool Notes
 
-[Previous Meal Plans](./PreviousMealPlansIndex.md)
+- [Previous Meal Plans](./PreviousMealPlansIndex.md)
 
-[Taco Recipes](./TacoRecipeIdeas.md)
+- [Casseroles](./1PanMeals.md)
 
-[Pasta Recipes](./PastaRecipeIdeas.md)
+- [Cookout Recipes](./cookOutRecipes.md)
 
-[Soup Recipes](./SoupIndex.md)
+- [Taco Recipes](./TacoRecipeIdeas.md)
 
-[Thanksgiving Recipes](./ThanksgivingIndex.md)
+- [Rice and Bean Recipes](./lentilAndRiceRecipeIdeas.md)
+
+- [Pasta Recipes](./PastaRecipeIdeas.md)
+
+- [Salad Recipes](./saladRecipeIdeas.md)
+
+- [Soup Recipes](./SoupIndex.md)
+
+- [Thanksgiving Recipes](./ThanksgivingIndex.md)

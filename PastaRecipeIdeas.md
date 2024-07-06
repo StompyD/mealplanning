@@ -1,5 +1,11 @@
 # Pasta Recipe Ideas
 
+- [American Chop Suey](./americanChopSuey.md)
+
+- [Baked Feta Pasta](./bakedFetaPasta.md)
+
+- [Basic Pesto](./BasicPesto.md)
+
 - [Baked Ziti - Smitten Kitchen](./BakedZiti.md)
 
 - [Baked Ziti with Bechamel](./BakedZitiWithBechamel.md)
@@ -12,16 +18,26 @@
 
 - [Carbonara](./SpaghettiWithCarbonaraSauce.md)
 
+- [Chicken Tetrazzini](./chickenTetrazzini.md)
+
 - [Fettucicine Alfredo](./Fettuccine Alfredo.md)
 
 - [Lemony Chickpea Pasta](./lemonyChickpeaPasta.md)
 
 - [Marcella Hazan's Tomato Sauce](./MarcellaHazanTomatoSauce.md)
 
+- [Marry Me Chickpea and Orzo](./marryMeChickpeaAndOrzo.md)
+
+- [One Pot Chili Mac](./onePotChiliMac.md)
+
 - [Pasta E Ceci](./PastaECeci.md)
 
 - [Penne Alla Vodka](./penneallavodka.md)
 
+- [Seasame Noodles](./seasameNoodles.md)
+
 - [Slow Cooker Spagetti Sauce](./SlowCookerSpaghettiSauce.md)
 
 - [Tuscan White Bean Pasta](./TuscanWhiteBeanPasta.md)
+
+- [Vegatable Lo Mein](./VegetableLoMein.md)

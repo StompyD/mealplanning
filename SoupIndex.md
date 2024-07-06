@@ -6,6 +6,8 @@
 
 - [30-Minute Black Bean Soup Recipe](./blackBeanSoup.md)
 
+- [Buffalo White Chicken Chili](./buffaloWhiteChickenChili.md)
+
 - [Best Lentil Soup](./Best Lentil Soup.md)
 
 - [Butternut Squash Soup](./butternutSquashSoup.md)
@@ -23,6 +25,8 @@
 - [Everett Tortilla Soup](./everettTortillaSoup.md)
 
 - [Hot and Sour Soup with Cabbage](./hotAndSourSoupWithCabbage.md)
+
+- [Lemony Greek Chickpea Soup](./lemonyGreekChickpeaSoup.md)
 
 - [Pasta e Fagioli](./pastaEFagioli.md)
 

@@ -1,18 +1,17 @@
-# 1 Pan Storage Meals
+# Casseroles
 
-<./BroccoliCheddarChickenAndRice.md>
+- [Baked Ziti](./BakedZiti.md)
 
-<./Curried Beef with Potatoes.md>
+- [Black Bean and Polenta Casserole](./blackBeanPolentaCasserole.md)
 
-<./KaleAndWhiteBeanSalad.md>
+- [Baked Ziti with Bechamel](./BakedZitiWithBechamel.md)
 
-<./lebanese bean salad.md>
+- [Broccoli Cheddar Chicken and Rice](./BroccoliCheddarChickenAndRice.md)
 
-<./padthai.md>
+- [Chicken Tetrazzini](./chickenTetrazzini.md)
 
-<./BakedZiti.md>
-
-<./BakedZitiWithBechamel.md>
+- [Classic Tuna Noodle Casserole](./ClassicTunaCasserole.md)
 
 - Enchiladas
 
+- [Tater Tot Casserole](./taterTotCasserole.md)
