@@ -21,6 +21,7 @@
 - [Creamy Jalapeno Salsa](./creamyJalapenoSalsa.md)
 - [Chile De Arbol Sauce](/chileDeArbolSauce.md)
 - [Chile De Arbol Sauce - Extra Hot](./chileDeArbolSauceExtraHot.md)
+- [Chipotle Mayo Sauce](./chipotleMayoSauce.md)
 - [Extra-Hot Yucatán-Style Roasted-Habanero Salsa](./extraHotYucatanStyleRoastedHabaneroSalsa.md)
 - [Las Delicias Salsa Copycat](./lasDeliciasSalsaCopycat.md)
 - [Pico de Gallo](./classicPicoDeGallo.md)
