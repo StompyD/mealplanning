@@ -13,7 +13,10 @@
 
 - [Taco Potion #19 (Taco Seasoning)](./TacoSeasoning.md)
 
+
+## Other Sides
 - [Easy Bean Dip](./easyBeanDip.md)
+- [Mexican Rice](./mexicanRice.md)
 
 ## Salsa Recipes
 - [Acapulco Style Green Salsa](./acapulcoGreenSalsa.md)
