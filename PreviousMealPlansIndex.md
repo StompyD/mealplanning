@@ -1,5 +1,37 @@
 # Previous Meal Plans
 
+[Week of 09/23/2024](./mealplan20240923.md)
+
+[Week of 09/16/2024](./mealplan20240916.md)
+
+[Week of 09/09/2024](./mealplan20240909.md)
+
+[Week of 09/02/2024](./mealplan20240902.md)
+
+[Week of 08/26/2024](./mealplan20240826.md)
+
+[Week of 08/19/2024](./mealplan20240819.md)
+
+[Week of 08/12/2024](./mealplan20240812.md)
+
+[Week of 08/05/2024](./mealplan20240805.md)
+
+[Week of 07/22/2024](./mealplan20240722.md)
+
+[Week of 07/15/2024](./mealplan20240715.md)
+
+[Week of 07/08/2024](./mealplan20240708.md)
+
+[Week of 07/01/2024](./mealplan20240701.md)
+
+[Week of 06/24/2024](./mealplan20240624.md)
+
+[Week of 06/17/2024](./mealplan20240617.md)
+
+[Week of 06/10/2024](./mealplan20240610.md)
+
+[Week of 06/03/2024](./mealplan20240603.md)
+
 [Week of 05/27/2024](./mealplan20240527.md)
 
 [Week of 05/20/2024](./mealplan20240520.md)
