@@ -26,6 +26,7 @@
 - [Chile De Arbol Sauce - Extra Hot](./chileDeArbolSauceExtraHot.md)
 - [Chipotle Mayo Sauce](./chipotleMayoSauce.md)
 - [Extra-Hot Yucatán-Style Roasted-Habanero Salsa](./extraHotYucatanStyleRoastedHabaneroSalsa.md)
+- [Green Drizzling Sauce](./greenDrizzlingSauce.md)
 - [Las Delicias Salsa Copycat](./lasDeliciasSalsaCopycat.md)
 - [Pico de Gallo](./classicPicoDeGallo.md)
 - [Salsa Verde](./salsaVerde.md)
