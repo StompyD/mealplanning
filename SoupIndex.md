@@ -1,43 +1,29 @@
 # Soup Index
 
 - [15 Bean Soup](./15BeanSoup.md)
-
 - [30 Minute Posole](./30MinutePosole.md)
-
 - [30-Minute Black Bean Soup Recipe](./blackBeanSoup.md)
-
 - [Buffalo White Chicken Chili](./buffaloWhiteChickenChili.md)
-
 - [Best Lentil Soup](./Best Lentil Soup.md)
-
 - [Butternut Squash Soup](./butternutSquashSoup.md)
-
 - [Cabbage, Sausage (Kielbasa), and Potato Soup](./cabbageSausagePotatoSoup.md)
-
 - [Caldo Verde (Portuguese Potato and Kale Soup With Sausage)](./caldoVerde.md)
-
+- [Creamy Bratwurst Step](./creamyBratwurstSoup.md)
 - [Creamy Tomato Soup](./creamyTomatoSoup.md)
-
+- [Creamy Tomato Soup](./creamyTomatoSoup.md)
 - [Easy Dumpling Soup](./EasyDumplingSoup.md)
-
 - [Easy Pumpkin Chili](./easyPumpkinChili.md)
-
 - [Everett Tortilla Soup](./everettTortillaSoup.md)
-
 - [Hot and Sour Soup with Cabbage](./hotAndSourSoupWithCabbage.md)
-
+- [Italian Veggie Beef Soup](./italianVeggieBeefSoup.md)
 - [Lemony Greek Chickpea Soup](./lemonyGreekChickpeaSoup.md)
-
 - [Pasta e Fagioli](./pastaEFagioli.md)
-
 - [Pinto Posole](./pintoposole.md)
-
+- [Pumpkin Lentil Soup](./pumpkinLentilSoup.md)
+- [Red Bean Vegetable Soup](./redBeanVegetableSoup.md)
+- [Red Lentil Soup Mix](./redLentilSoupMix.md)
 - [Sweet Potato Coconut Curry Soup](./sweetPotatoAndCoconutCurrySoup.md)
-
 - [Tortellini Soup](./tortelliniSoup.md)
-
 - [Vegetarian Borscht](./vegetarianBorscht.md)
-
 - [White Bean and Lemon Soup](./whiteBeanAndLemonSoup.md)
-
 - [White Chicken Chili](./whiteChickenChili.md)

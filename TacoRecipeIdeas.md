@@ -16,11 +16,13 @@
 
 ## Other Sides
 - [Easy Bean Dip](./easyBeanDip.md)
+- [Flour Tortillas(./flourTortillas.md)
 - [Mexican Rice](./mexicanRice.md)
 
 ## Salsa Recipes
 - [Acapulco Style Green Salsa](./acapulcoGreenSalsa.md)
 - [Acapulco Style Red Salsa](./acapulcoRedSalsa.md)
+- [Aji Verde](./ajiVerde.md)
 - [Creamy Jalapeno Salsa](./creamyJalapenoSalsa.md)
 - [Chile De Arbol Sauce](/chileDeArbolSauce.md)
 - [Chile De Arbol Sauce - Extra Hot](./chileDeArbolSauceExtraHot.md)
