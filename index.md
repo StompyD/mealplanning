@@ -5,8 +5,9 @@
 (Our chef and guide) 
 
 ## Meal Plans
-
 - [Week of 05/26/2025](./mealplan20250526.md)
+
+- [Week of 05/05/2025](./mealplan20250505.md)
 
 - [Week of 03/24/2025](./mealplan20250324.md)
 
