@@ -16,7 +16,7 @@
 
 ## Other Sides
 - [Easy Bean Dip](./easyBeanDip.md)
-- [Flour Tortillas(./flourTortillas.md)
+- [Flour Tortillas](./flourTortillas.md)
 - [Mexican Rice](./mexicanRice.md)
 
 ## Salsa Recipes
