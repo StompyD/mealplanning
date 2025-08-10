@@ -6,6 +6,7 @@
 
 ## Meal Plans
 
+- [Week of 08/11/2025](./mealplan20250811.md)
 - [Week of 07/14/2025](./mealplan20250714.md)
 - [Week of 06/06/2025](./mealplan20250609.md)
 - [Week of 05/26/2025](./mealplan20250526.md)
