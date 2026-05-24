@@ -24,6 +24,7 @@
 - [Red Lentil Soup Mix](./redLentilSoupMix.md)
 - [Sweet Potato Coconut Curry Soup](./sweetPotatoAndCoconutCurrySoup.md)
 - [Tortellini Soup](./tortelliniSoup.md)
+- [Tuscan White Bean Soup](./tuscanWhiteBeanSoup.md)
 - [Vegetarian Borscht](./vegetarianBorscht.md)
 - [White Bean and Lemon Soup](./whiteBeanAndLemonSoup.md)
 - [White Chicken Chili](./whiteChickenChili.md)
