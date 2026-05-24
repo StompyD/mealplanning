@@ -6,9 +6,11 @@
 - [Broccoli Cheddar Chicken and Rice](./BroccoliCheddarChickenAndRice.md)
 - [Broccoli Cheddar Chicken and Stuffing](./easyChickenBroccoliCasserole.md)
 - [Chicken Tetrazzini](./chickenTetrazzini.md)
+- [Chickpea Curry](./chickpeaCurry.md)
 - [Classic Tuna Noodle Casserole](./ClassicTunaCasserole.md)
 - Enchiladas
 - [Polenta Chili Casserole](./polentaChiliCasserole.md)
 - [Southwestern Casserole](./southwesternCasserole.md)
 - [Sushi Bake](./sushiBake.md)
+- [Soboro Donburi](./soboroDonburi.md)
 - [Tater Tot Casserole](./taterTotCasserole.md)
